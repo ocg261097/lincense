@@ -43,5 +43,9 @@
 	"KAPO-LKOA-554A-1BLA": {
 		"id": "10",
 		"expire": "06.03.2025"
+    },
+	"KZOK-LKOA-554A-1BLA": {
+		"id": "11",
+		"expire": "09.10.2024"
     }
 }
