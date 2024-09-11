@@ -63,5 +63,9 @@
 	"KLEI-LSZO-5577-BROL": {
 		"id": "15",
 		"expire": "11.03.2025"
+    },
+	"KLEI-LSZO-5577-DRGN": {
+		"id": "16",
+		"expire": "11.03.2025"
     }
 }
