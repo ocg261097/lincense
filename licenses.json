@@ -71,5 +71,9 @@
 	"KLEI-ZHUX-MILA-USXN": {
 		"id": "16",
 		"expire": "11.03.2025"
+    },
+	"KLEI-ROZP-MILA-USXT": {
+		"id": "17",
+		"expire": "12.03.2025"
     }
 }
