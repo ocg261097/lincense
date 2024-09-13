@@ -79,5 +79,9 @@
 	"KLEI-IKOZ-MILA-USXT": {
 		"id": "16",
 		"expire": "12.03.2025"
+    },
+	"TRL1-IKOZ-MILA-USXT": {
+		"id": "17",
+		"expire": "14.09.2024"
     }
 }
