@@ -83,5 +83,9 @@
 	"TRL1-IKOZ-MILA-USXT": {
 		"id": "17",
 		"expire": "14.09.2024"
+    },
+	"TRL1-KOZL-MILA-USXT": {
+		"id": "18",
+		"expire": "16.10.2024"
     }
 }
