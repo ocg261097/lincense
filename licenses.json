@@ -87,5 +87,9 @@
 	"TRL1-KOZL-MILA-USXT": {
 		"id": "18",
 		"expire": "16.10.2024"
+    },
+	"TVB1-KOZL-MILA-USXT": {
+		"id": "19",
+		"expire": "18.10.2024"
     }
 }
