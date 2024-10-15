@@ -99,5 +99,9 @@
 	"TVB1-KOZL-BIZK-USOK": {
 		"id": "20",
 		"expire": "04.04.2025"
+    },
+	"TVB1-KOZL-BIZK-PLOS": {
+		"id": "21",
+		"expire": "15.04.2025"
     }
 }
