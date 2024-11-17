@@ -103,5 +103,9 @@
 	"TVB1-KOZL-BIZK-PLOS": {
 		"id": "21",
 		"expire": "15.04.2025"
+    },
+	"TXOP-KOZL-BIZK-PLOS": {
+		"id": "22",
+		"expire": "15.05.2025"
     }
 }
