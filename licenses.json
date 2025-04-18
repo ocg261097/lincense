@@ -107,5 +107,9 @@
 	"TXOP-KOZL-BIZK-PLOS": {
 		"id": "22",
 		"expire": "15.05.2025"
+    },
+	"TXOP-KOZL-MOKO-PLOS": {
+		"id": "23",
+		"expire": "18.08.2025"
     }
 }
